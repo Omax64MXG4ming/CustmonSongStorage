@@ -1,0 +1,9 @@
+{
+  "name": "gdps-music-api",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@vercel/blob": "^2.0.0"
+  }
+}
