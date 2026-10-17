@@ -42,3 +42,27 @@ from ```NEO_MUSIC_API_SECRET``` set
 # Setup Storage
 
 in 3 Lines Menu, Search Storage and Enter to It,
+and Click on Create Storage ,
+
+And Click on 
+``
+Blob 
+Fast Object Storage
+``
+
+AND Setup It with default Name 
+and Click on Public Setting Blob for Accept POST and GET from Your SETUP GDPS URL 
+
+and Click :
+
+* Add a read-write token env var to this connection
+and Click on Create,
+
+As I already prepared the file for the blob, you no longer need to configure anything else, if this is the occasion,
+And you give in your deploys and give a manual reset.
+
+
+
+## Note 
+
+It only works on the megasa1nt and cvolton gmdprivateservers core.
