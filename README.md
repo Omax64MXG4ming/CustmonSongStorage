@@ -17,3 +17,28 @@ you can go to `Environment Variables`
 and Important, Need u to Remember or save for this, the ``music-storage.php`` keys 
 
 and After this,
+
+can now Create the Secrets
+
+# Environment Variables
+
+```
+MUSIC_CALLBACK_SECRET
+```
+with vaule from ```NEO_MUSIC_CALLBACK_SECRET``` from the php settings ,
+
+```
+MUSIC_UPLOAD_CALLBACK_URL
+```
+from ```NEO_MUSIC_API_URL``` set
+
+```
+MUSIC_UPLOAD_SECRET
+```
+from ```NEO_MUSIC_API_SECRET``` set 
+
+, For the Blob storage go To Your Proyect
+
+# Setup Storage
+
+in 3 Lines Menu, Search Storage and Enter to It,
